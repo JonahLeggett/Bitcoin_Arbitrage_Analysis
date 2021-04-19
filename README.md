@@ -1,6 +1,6 @@
 # Crypto Arbitrage Analysis
 
-*This is an analysis of past Bitcoin price data on Coinbase and Bitstamp. The purpose of the analysis is to seek out arbitrage opportunities that existed between the price of Bitcoin on the two exchanges. It will allow users to make a determination about the potential profits and trends of Bitcoin arbitrage opportunities. The question we are trying to answer is: "As Bitcoin trades on markets across the globe, can we capitalize on simultaneous price dislocations in those markets?"
+*This is an analysis of past Bitcoin price data on Coinbase and Bitstamp. The purpose of the analysis is to seek out arbitrage opportunities that existed between the price of Bitcoin on the two exchanges. It will allow users to make a determination about the potential profits and trends of Bitcoin arbitrage opportunities. The question we are trying to answer is: "As Bitcoin trades on markets across the globe, can we capitalize on simultaneous price dislocations in those markets?"*
 
 ---
 
